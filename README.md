@@ -9,7 +9,8 @@
 `-----'`-----` `--`
 ```
 
-[![](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-maleki/)](https://www.linkedin.com/in/nicholas-maleki/) [![](https://img.shields.io/badge/-4B9CD3?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malekinick)](https://twitter.com/malekinick)
+[![ ](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-maleki/)](https://www.linkedin.com/in/nicholas-maleki/) [![](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malekinick)](https://twitter.com/malekinick)[![ ](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=website&logoColor=white&link=https://nickmaleki.com/)](https://nickmaleki.com/)
+
 
 
 I'm Nick; here are a few things about me:
