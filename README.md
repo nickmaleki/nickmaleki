@@ -1,5 +1,5 @@
 ### Hello there 👋
-``
+```
              _ |\_
               \` ..\
          __,.-" =__Y=
@@ -7,7 +7,7 @@
  _    /   ,    \`--`
 ((____|    )_-\ \_
 `-----'`-----` `--`
-``
+```
 
 [![](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=link&logoColor=white&link=https://nickmaleki.com/)](https://nickmaleki.com/) [![](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-maleki/)](https://www.linkedin.com/in/nicholas-maleki/) [![](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malekinick)](https://twitter.com/malekinick) 
 
