@@ -9,7 +9,7 @@
 `-----'`-----` `--`
 ```
 
-[![Nick Maleki on LinkedIn](https://img.shields.io/badge/-093f79?label=nicholas-maleki&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-maleki/)](https://www.linkedin.com/in/nicholas-maleki/) [![Nick Maleki on Twitter](https://img.shields.io/badge/-malekinick-093f79?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malekinick)](https://twitter.com/malekinick) 
+[![Nick Maleki on LinkedIn](https://img.shields.io/badge/-093f79?label=nicholas-maleki&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-maleki/)](https://www.linkedin.com/in/nicholas-maleki/) [![Nick Maleki on Twitter](https://img.shields.io/badge/-093f79?label=nicholas-maleki&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malekinick)](https://twitter.com/malekinick) 
 
 
 
