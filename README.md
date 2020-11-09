@@ -13,9 +13,11 @@
 
 
 I'm Nick; here are a few things about me:
- - Computer Science B.S. and M.S. from University of North Carolina at Charlotte
+ - Co-Founder of [Recursion](https://github.com/recursion-computing)
  - Computer Scientist at [Aquisense Technologies](https://www.aquisense.com/)
- - Co-founder of [Recursion](https://github.com/recursion-computing)
+ - Computer Science B.S. and M.S. from The University of North Carolina at Charlotte
+
+ 
 
 <!--
 ![Hello there 👋](https://media.giphy.com/media/KmEzemwIqhuF2/giphy.gif)
@@ -23,6 +25,8 @@ I'm Nick; here are a few things about me:
 <!--
 **nickmaleki/nickmaleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=link&logoColor=white&link=https://nickmaleki.com/)](https://nickmaleki.com/) 
+
+
 
                               (@@(                                  (@@/                            
                          @@@@@@@@  @@@@                       .@@@@  @@@@@@@@                       
