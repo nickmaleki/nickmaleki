@@ -14,7 +14,7 @@
 
 I'm Nick; here are a few things about me:
  - Co-Founder of [Recursion](https://github.com/recursion-computing)
- - Computer Scientist at [Aquisense Technologies](https://www.aquisense.com/)
+ - Software Engineer and Analyst at [Aquisense Technologies](https://www.aquisense.com/)
  - Computer Science B.S. and M.S. from The University of North Carolina at Charlotte
 
  
