@@ -25,6 +25,7 @@ I'm Nick; here are a few things about me:
 <!--
 **nickmaleki/nickmaleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![](https://img.shields.io/badge/-093f79?style=for-the-badge&logo=link&logoColor=white&link=https://nickmaleki.com/)](https://nickmaleki.com/) 
+https://github.com/HaiDang666/awesome-tool-for-readme-profile
 
 
 
