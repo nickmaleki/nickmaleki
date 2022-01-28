@@ -14,7 +14,7 @@
 
 I'm Nick; here are a few things about me:
  - Co-Founder of [Recursion](https://github.com/recursion-computing)
- - Computer Science Masters and Minor in Mathematics from The University of North Carolina at Charlotte 
+ - Computer Science M.S. and Minor in Mathematics from The University of North Carolina at Charlotte 
  - Concentrated in Robotics and Artificial Intelligence
 
  
