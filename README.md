@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi there 👋 I'm Nick
 ```
              _ |\_
               \` ..\
@@ -11,11 +11,10 @@
 
 [![Nick Maleki on LinkedIn](https://img.shields.io/badge/-nicholas%20maleki-093f79?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-maleki/)](https://www.linkedin.com/in/nicholas-maleki/) [![Nick Maleki on Twitter](https://img.shields.io/badge/-malekinick-093f79?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malekinick)](https://twitter.com/malekinick) 
 
-
-I'm Nick; here are a few things about me:
- - Co-Founder of [Recursion](https://github.com/recursion-computing)
- - Computer Science M.S. and Minor in Mathematics from The University of North Carolina at Charlotte 
- - Concentrated in Robotics and Artificial Intelligence
+About me: 
+- Co-Founder of [Recursion](https://github.com/recursion-computing)
+- Computer Science M.S. and Minor in Mathematics from The University of North Carolina at Charlotte
+- Most of my repos are not held here
 
  
 
